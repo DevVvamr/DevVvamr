@@ -1,5 +1,3 @@
-<img src="images/svg/header_en.svg"></img>
-
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp; &nbsp;Currently working as a Technical Support Engineer at [Click Solutions](https://www.clicksolutioneg.com/). \
